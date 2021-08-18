@@ -3,5 +3,5 @@ I recently wrote about a no-margin strategy using Bollinger band breaks to trade
 
 The original posts can be found:
 
-+ On Medium.com
-+ On my personal site
++ [On Medium.com](https://anthony-a-morast.medium.com/trading-trends-with-bollinger-bands-1c4cb0795d48)
++ [On my personal site](https://www.anthonymorast.com/blog/2021/08/17/trading-trends-with-bollinger-bands/)
